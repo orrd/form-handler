@@ -1,0 +1,22 @@
+{
+    "name": "orrd/form-handler",
+    "description": "Simple CRUD forms for Laravel.",
+    "keywords": ["laravel", "crud", "forms"],
+    "license" : "MIT",
+    "authors" : [
+        {
+            "name": "David Orr",
+            "email": "orrd101@yahoo.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "FormHandler\\": "src/"
+        }
+    }
+}
