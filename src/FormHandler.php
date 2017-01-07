@@ -1,6 +1,6 @@
 <?php
 
-namespace orrd/FormHandler;
+namespace FormHandler;
 
 class FormHandler 
 {
