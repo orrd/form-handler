@@ -2,7 +2,7 @@
 
 namespace orrd\FormHandler;
 
-class FormHandler 
+class Foo 
 {
 	public function foo()
 	{
